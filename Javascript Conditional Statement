@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Javascript Conditional Statement</title>
+</head>
+<body>
+	<h2>Understanding an if "Conditional" statement</h2>    
+    	<p>
+   Conditional statements in Javascript<br>
+are statements that require a true or <br>false answer. Meaning it is either a true  statement or not true.
+    	</p>
+
+	<p>In this example we are going to <br> create a javascript that sets a variable "amount" to the number "500"<br> then we will set the condition to determine if the variable is true or not.<br>
+We do this by setting the condition to another value in this case we will set it up to read…"if amount is less than 1000
+<br> then we will call the alert like this<br>
+"alert(it's less than 1000!)" .
+<br><br>Read the script between the script tags below to see how this is setup. Then open this page in a browser to see what happens.
+<p>
+
+	<ul>
+		<li>An H1 Tag</li>
+		<li>Two paragraphs</li>
+		<li>An unordered list</li>
+	</ul>
+	//This is where your inline javascript lives
+	
+	<script>
+		var amount = 500;
+		if ( amount < 1000)
+		{
+		alert("it's less than 1000!");
+		}
+	</script>
+	//no more javascript after this
+</body>
+</html>
