@@ -21,7 +21,7 @@ We do this by setting the condition to another value in this case we will set it
 		<li>Two paragraphs</li>
 		<li>An unordered list</li>
 	</ul>
-	//This is where your inline javascript lives
+<!--This is where your inline javascript lives -->
 	
 	<script>
 		var amount = 500;
@@ -30,6 +30,6 @@ We do this by setting the condition to another value in this case we will set it
 		alert("it's less than 1000!");
 		}
 	</script>
-	//no more javascript after this
+	<!-- no more javascript after this -->
 </body>
 </html>
