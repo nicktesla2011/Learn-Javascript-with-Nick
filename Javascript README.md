@@ -11,5 +11,5 @@ In many ways it is like learning a new spoken language. You need to learn the no
 
 The way I approached my learning was to break down each line and dive into what was meant by the line and how it interacted with other lines in the script. This worked for me and allowed me to get up to speed in a fairly quick fashion.<br>
 
-I have supplied abare bones HTML template for your use so you can get started focusing on Javascript and not setting up the HTML file.
+I have supplied a bare bones HTML template for your use so you can get started focusing on Javascript and not setting up the HTML file.
 Even though this is something you should be very familiar with as you proceed down  your development path.<br>
