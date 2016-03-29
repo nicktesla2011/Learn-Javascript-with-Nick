@@ -13,7 +13,7 @@ In this example you will write an inline script that will <br>
 Get the video by it's elementID and assign the "Play button" to actually play the video.<br>
 The second function will pause the video.
 
-**How to do this**
+***How to do this***
 
 Open up your barebones HTML template that can be found in this repository.
 
