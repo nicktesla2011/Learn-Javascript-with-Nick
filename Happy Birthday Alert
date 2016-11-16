@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+   
+<script
+language="javascript"
+type="text/javascript">
+
+for (var i=0; i <= 3; i++)
+{
+
+ msg = (i == 2)?
+"Happy Birthday Dear Friend or Family Member":
+"Happy Birthday to You!";
+ alert(msg);
+}
+</script>
+    </body>
+</html>
